@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b3bbfa29d546a084fb8f4184e2009c63
+  productGUID: 70121b9989ee39549ac1a529712b9d4e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: CodeNinjaProject
+  productName: CNGame
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,7 +837,7 @@ PlayerSettings:
     PS4: UNITY_POST_PROCESSING_STACK_V2
     PS5: UNITY_POST_PROCESSING_STACK_V2
     Stadia: UNITY_POST_PROCESSING_STACK_V2
-    Standalone: FUSION_WEAVER;UNITY_POST_PROCESSING_STACK_V2;FUSION_NETWORK_SCENE_MANAGER_TRACE;FUSION2;FUSION_LOGLEVEL_INFO
+    Standalone: FUSION_WEAVER;UNITY_POST_PROCESSING_STACK_V2;FUSION_NETWORK_SCENE_MANAGER_TRACE;FUSION2;FUSION_LOGLEVEL_INFO;FUSION_2;FUSION_2_0;FUSION_2_0_9;FUSION_2_OR_NEWER;FUSION_2_0_OR_NEWER
     WebGL: UNITY_POST_PROCESSING_STACK_V2
     Windows Store Apps: UNITY_POST_PROCESSING_STACK_V2
     XboxOne: UNITY_POST_PROCESSING_STACK_V2
@@ -860,14 +860,14 @@ PlayerSettings:
     Standalone: 6
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: CodeNinjaProject
+  metroPackageName: CNGameProject
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: CodeNinjaProject
+  metroApplicationDescription: CNGameProject
   wsaImages: {}
   metroTileShortName: Tanknarok Fusion Demo
   metroTileShowName: 0
@@ -936,10 +936,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2b6eeaf4-d051-4abb-888e-fe0681d2ebc4
+  cloudProjectId: 90b8ec6d-8a40-4dc2-8fa1-cd6f48e2e8fe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: CodeNinjaProject
+  projectName: CNGame
   organizationId: garethjswarte
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
